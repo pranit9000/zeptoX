@@ -1,0 +1,31 @@
+#content{
+    background: url(images/img2.jpg);
+    background-size:cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    
+}
+.notes{
+    color: white;
+    margin-top: 10%;
+}
+.content_btn{
+    color: azure;
+}
+/* #content::before{
+    content:'';
+    position: absolute;
+    top: 0; left: 0;
+    height: 100%;
+    width: 100%;
+    /* background: rgb(8, 8, 8); */
+ */
+.content_container{
+    position: relative;
+    top: 13rem;
+    color: white;
+    width: 45%;
+    
+}

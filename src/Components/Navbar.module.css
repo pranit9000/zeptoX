@@ -1,0 +1,9 @@
+.pranit img{
+    
+    height:20vh;
+}
+
+.pranit{
+    background: rgb(15,7,158);
+background: linear-gradient(90deg, rgba(15,7,158,1) 17%, rgba(9,45,121,1) 49%, rgba(51,42,171,1) 100%);
+}
